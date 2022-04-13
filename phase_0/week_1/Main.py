@@ -3,7 +3,7 @@
 #print(log(10))
 
 from package.Fisika import kecepatan
-print(kecepatan(100,5))
+print(kecepatan(100, 5))
 
 
 #import Fisika
